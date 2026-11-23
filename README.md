@@ -140,6 +140,4 @@ Considering these factors during the PCB design stage can help reduce avoidable 
 
 PCBCool is a PCB manufacturing and assembly company providing solutions for engineers, electronics designers, startups, and businesses developing electronic products.
 
-**Further Reading:** A Practical Guide to Solar PCB Design – PCBCool
-
-[https://pcbcool.com/technical-guides/solar-pcb-design-guide/]
+Further Reading: https://pcbcool.com/technical-guides/solar-pcb-design-guide/
